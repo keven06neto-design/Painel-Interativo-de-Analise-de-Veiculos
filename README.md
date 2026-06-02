@@ -93,3 +93,6 @@ Sprint-5-Project/
 │ 
 
 └── .gitignore
+
+## URL do aplicativo no Render: 
+https://vehicle-data-analysis-ndto.onrender.com
